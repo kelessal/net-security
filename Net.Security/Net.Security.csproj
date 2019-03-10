@@ -6,6 +6,9 @@
     <Company>Salih Keleş</Company>
     <Copyright>©2019 Salih Keleş</Copyright>
     <Description>Simple but handful security functions</Description>
+    <PackageLicenseUrl>https://github.com/kelessal/net-security/blob/master/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/kelessal/net-security/</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/kelessal/net-security/blob/master/images/infinity.png</PackageIconUrl>
   </PropertyGroup>
 
   <ItemGroup>
