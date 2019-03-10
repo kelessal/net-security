@@ -2,6 +2,10 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Authors>Salih Keleş</Authors>
+    <Company>Salih Keleş</Company>
+    <Copyright>©2019 Salih Keleş</Copyright>
+    <Description>Simple but handful security functions</Description>
   </PropertyGroup>
 
   <ItemGroup>
